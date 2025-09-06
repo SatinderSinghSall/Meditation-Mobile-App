@@ -49,7 +49,7 @@ const App = () => {
                 .springify(20)}
             >
               <CustomButton
-                onPress={() => router.push("/nature-meditate")}
+                onPress={() => router.push("/login")}
                 title="Get Started"
               />
             </Animated.View>
