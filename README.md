@@ -62,7 +62,9 @@ Follow these steps to set up the project locally on your machine.
 
 # File Tree: Meditation App
 
-Generated on: 9/6/2025, 12:41:56 PM
+# File Tree: Meditation App
+
+Generated on: 9/6/2025, 10:33:20 PM
 Root path: `e:\My Projects\Full-Stack Meditation Mobile App\Meditation App`
 
 ```
@@ -70,6 +72,9 @@ Root path: `e:\My Projects\Full-Stack Meditation Mobile App\Meditation App`
 ├── 📁 .git/ 🚫 (auto-hidden)
 ├── 📁 .vscode/ 🚫 (auto-hidden)
 ├── 📁 app/
+│   ├── 📁 (auth)/
+│   │   ├── 📄 login.tsx
+│   │   └── 📄 signup.tsx
 │   ├── 📁 (modal)/
 │   │   └── 📄 adjust-meditation-duration.tsx
 │   ├── 📁 (tabs)/
